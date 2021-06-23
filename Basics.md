@@ -15,3 +15,12 @@ Asset Class:
 
 #### 1.2 [Regulators](https://zerodha.com/varsity/chapter/regulators/)
 
+- The stock market is the place to go to if you want to transact in equities.
+- Stock markets exist electronically and can be accessed through a stockbroker.
+- There are many different kinds of market participants operating in the stock markets.
+- Every entity operating in the market has to be regulated, and they can operate only within the framework as prescribed by the regulator.
+- SEBI is the regulator of the securities market in India. They set the legal framework and regulate all entities interested in operating in the market.
+- Most importantly you need to remember that SEBI is aware of what you are doing and they can flag you down if you are upto something fishy in the markets!
+
+#### 1.3 [Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
+
